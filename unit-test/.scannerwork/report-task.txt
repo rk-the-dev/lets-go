@@ -1,0 +1,6 @@
+projectKey=profile-manager-fullstack
+serverUrl=http://localhost:3001
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:3001/dashboard?id=profile-manager-fullstack
+ceTaskId=AYMD07TPbyAgxMZMp5S4
+ceTaskUrl=http://localhost:3001/api/ce/task?id=AYMD07TPbyAgxMZMp5S4
